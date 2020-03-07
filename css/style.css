@@ -1,0 +1,52 @@
+.menu{
+	width: 1200px;
+	margin: auto;
+	text-align: center;
+}
+.menu ul {
+	list-style: none;
+}
+.menu ul li{
+	display: inline-block;
+	margin: 0px 5px;
+}
+.menu ul li a{
+	display: block;
+	padding: 10px 15px;
+	text-decoration: none;
+	font-size: 20px;
+	background-color: #222;
+	color: #fff;
+	font-family: candara;
+}
+.gallery{
+	width: 1200px;
+	margin: auto;
+	text-align: center;
+}
+.galbox{
+	display: inline-block;
+	width: 22%;
+	height: 300px;
+	border: 1px solid #000;
+	margin: 5px;
+	padding: 8px;
+	background-color: #222;
+}
+
+.galbox img{
+	width: 100%;
+	height: 100%;
+	border-radius: 10px;
+
+}
+.bg{
+	background-color: red !important;
+}
+
+
+
+
+
+
+
